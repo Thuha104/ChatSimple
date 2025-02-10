@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464594808059",
+    "project_id": "chatsimple-8902c",
+    "storage_bucket": "chatsimple-8902c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464594808059:android:32f23a05fad9e8e069d45e",
+        "android_client_info": {
+          "package_name": "com.example.chat_simple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ne4LhTr23AQ5qaDND2P-An2Z1H2J7fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
